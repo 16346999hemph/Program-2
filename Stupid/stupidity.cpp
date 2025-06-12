@@ -1,3 +1,7 @@
+// Anyshya Hemphill
+// Program 2 - Distance
+// This program generates two points in a 2D space, calculates their distances from the origin, and determines which point is closer to the origin.
+
 #include <iostream>
 #include <cstdlib>
 #include <ctime>
